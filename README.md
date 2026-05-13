@@ -31,9 +31,12 @@
 
 ---
 
-### 📫 How to reach me:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/kareemabdo615) 
-- 📧 Email: [kareemabdo615@gmail.com]
+### 👋 How to reach me:
+
+- 🔗 **LinkedIn:** [Kareem Mohamed](https://www.linkedin.com/in/kareemabdo615)
+- 📧 **Email:** [kareemabdo615@gmail.com](mailto:kareemabdo615@gmail.com)
+
+---
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kareemabdo-ai&show_icons=true&theme=radical" alt="Kareem's GitHub Stats" />
