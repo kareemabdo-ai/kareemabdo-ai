@@ -1,13 +1,13 @@
 # Hi there, I'm Kareem Mohamed Abdo 👋
 
 ### 🎓 About Me
-- ⚡ **Current Status:** 2nd Year AI Engineering Student at **Mansoura National University**.
+- ⚡ **Current Status:** 3nd Year AI Engineering Student at **Mansoura National University**.
 - 🤖 **Passionate About:** Artificial Intelligence, Machine Learning, and Data Analysis.
 - 🌍 **Future Plans:** Currently mastering **German (A1/A2)** to pursue my **Master's degree in Germany** 
 
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, Css
+- **Languages:** Python, C
 - **Data Science:** Matplotlib, NumPy, Pandas
 - **Specialties:** Machine Learning Modeling, Digital Logic (K-maps), Circuit Analysis (JFET).
 
@@ -16,6 +16,9 @@
 ### 🚀 Featured Projects
 - **[Diabetes Prediction Model](https://github.com/kareemabdo-ai)**: A Python-based model designed to predict diabetes using data visualization and ML techniques.
 - **AI & ML Training**: Completed a 100-hour intensive program with "Creativa".
+- **ML Training**: Completed a 120-hour intensive program with "NTI" .
+- **[House Price Prediction Model](https://github.com/kareemabdo-ai/house_price_pred)** : A Python-based model designed to predict house prices using data visualization and ML techniques.
+- **[Store Item Demand Forecasting](https://github.com/kareemabdo-ai/Store--Item--Demand-)** : A Machine Learning project that forecasts future store item sales using historical sales data to identify demand patterns and support better inventory planning.
 
 ---
 
